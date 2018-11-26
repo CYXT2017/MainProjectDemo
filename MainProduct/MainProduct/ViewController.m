@@ -9,6 +9,8 @@
 //这是product_ct的新的改变
 // 我是master第二次变更
 
+//这是第一次dev_ct的新的b改变。
+//这是跌二次提交dev_ct的改变
 #import "ViewController.h"
 
 @interface ViewController ()
