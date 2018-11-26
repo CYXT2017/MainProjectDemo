@@ -12,6 +12,8 @@
 
 //这是第一次dev_ct的新的b改变。
 //这是跌二次提交dev_ct的改变
+
+//这是master - one 第二次提交
 #import "ViewController.h"
 
 @interface ViewController ()
