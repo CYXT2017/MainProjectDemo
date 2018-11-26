@@ -7,7 +7,7 @@
 // wo shi master 上提交的新的改变
 //这是第一次dev_ct的新的b改变。
 //这是product_ct的新的改变
-
+//这是本地 单独分支 master-one 提交的改变 
 #import "ViewController.h"
 
 @interface ViewController ()
