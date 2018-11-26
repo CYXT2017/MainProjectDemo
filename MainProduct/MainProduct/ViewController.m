@@ -10,6 +10,8 @@
 //这是本地 单独分支 master-one 提交的改变
 // 我是master第二次变更
 
+//这是第一次dev_ct的新的b改变。
+//这是跌二次提交dev_ct的改变
 #import "ViewController.h"
 
 @interface ViewController ()
